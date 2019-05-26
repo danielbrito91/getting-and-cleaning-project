@@ -94,6 +94,6 @@ The activity names were changed to the descriptive form contained in the activit
 * 5 STANDING
 * 6 LAYING
 
-The variable names were changed to a more "human readable" form (t - time, f - frequency, Acc - Acceleration, Mag - Magnitude, Gyro - Gyroscope) and the special caracters (```-``` and ```()```) were removed.
+The variable names were changed to a more "human readable" form (t - time, f - frequency, Acc - Acceleration, Mag - Magnitude, Gyro - Gyroscope) and the special characters (```-``` and ```()```) were removed.
 
 The ```tidy_data``` contains the mean for each selected variable summarized by subject (1 to 30) and activity (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).
